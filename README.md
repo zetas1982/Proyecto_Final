@@ -1,12 +1,10 @@
 # A1 Electronics Ecommerce Sample Application
 
-This repository contains code and support files for the book "Learning AWS".
-
 ## Running ecommerce application locally
 
 	docker pull josephassiga/docker-ecommerce
 
-	docker run -d -p 8080:8080 josephassiga/ecommerce
+	docker run -d -p 8080:8080 josephassiga/docker-ecommerce
 
     The URL to launch the application is http://localhost:8080/a1ecommerce/
 
