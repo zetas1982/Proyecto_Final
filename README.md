@@ -1,4 +1,4 @@
-# A1 Electronics Ecommerce Sample Application
+# Ecommerce Sample Application
 
 ## Running ecommerce application locally
 
