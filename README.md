@@ -1,4 +1,4 @@
-# Ecommerce Sample Application
+# Dockerize Ecommerce Sample Application
 
 ## Running ecommerce application locally
 
