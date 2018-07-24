@@ -21,4 +21,6 @@
 
 5) install JAVA 7 version
 
-Prueba Completa por fin
+PRUEBA PROYECTO FINAL DE MASTER.
+
+JENKINS 
